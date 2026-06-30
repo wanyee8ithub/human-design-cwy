@@ -5,7 +5,7 @@ import { VitePWA } from "vite-plugin-pwa";
 // IMPORTANT: change "human-design-notes" below to match your GitHub repo name
 // e.g. if your repo is github.com/yourname/hd-notes, set base: "/hd-notes/"
 export default defineConfig({
-  base: "/human-design-notes/",
+  base: "/human-design-cwy/",
   plugins: [
     react(),
     VitePWA({
